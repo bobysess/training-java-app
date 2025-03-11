@@ -108,4 +108,9 @@
             </plugin>
         </plugins>
     </build>
+    <scm>
+      <connection>scm:git:ssh://git@github.com/bobysess/training-java-app.git</connection>
+      <developerConnection>scm:git:ssh://git@github.com/bobysess/training-java-app.git</developerConnection>
+      <url>https://github.com/bobysess/training-java-app</url>
+    </scm>
 </project>
